@@ -16,10 +16,10 @@ public class Julio {
 		}
 		return acertada;
 	}
-	public static boolean main(String[] args) {
-		return false;
-		// TODO Auto-generated method stub
+	public static void main(String[] args) {
 		
+		// TODO Auto-generated method stub
+		System.out.println("me gustan los perros");
 		
 	}
 
